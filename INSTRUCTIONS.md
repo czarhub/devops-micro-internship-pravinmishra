@@ -55,7 +55,7 @@ Open `README.md` and update the **About Me** section with your:
 3. Fill in your answers where you see `<!-- ... -->` comments
 4. Add your screenshots to the `screenshots/` folder inside that week
 5. Update the progress table in the main `README.md`:
-   - Change ⬜ to 🔄 when you start
+   - Change ⬜ to 🔄when you start
    - Change 🔄 to ✅ when you finish
    - Paste your LinkedIn post URL in the LinkedIn Post column
 
