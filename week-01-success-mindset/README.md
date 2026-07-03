@@ -378,7 +378,7 @@ Paste your LinkedIn post link here: https://www.linkedin.com/posts/diokparaphael
 
 - LinkedIn Post URL: https://www.linkedin.com/posts/diokparaphael_successmindset-growthmindset-motivation-activity-7478849934444724224-AUM4?utm_source=share&utm_medium=member_desktop&rcm=
 
-- Blog / Medium : https://medium.com/@diokpadaberechi/the-gods-are-not-to-blame-but-are-we-02541ef8609f
+- Blog / Medium : https://medium.com/@diokpadaberechi/the-gods-are-not-to-blame-but-are-we-02541ef8609fgit add 
 
 ---
 
