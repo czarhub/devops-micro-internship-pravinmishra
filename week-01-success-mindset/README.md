@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe good health isn't guaranteed by lifestyle alone. While healthy habits are important, health is ultimately a gift from God. I've seen disciplined people become seriously ill, while others with unhealthy lifestyles remain healthy, showing there's no single formula for staying well.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+There's always a way if there is a will
 
 ### Evidence from my life
 
-Add your answer here...
+I've been stuck severally in life, not knowing how to proceed or where to turn to and as long as I don't stop trying and putting in effort, something will happen, there must eventually be a way to become unstuck eventually.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Success is delibrate not by chance or luck
 
 ### Evidence from my life
 
-Add your answer here...
+I have always seen positive result in my life when I don't live things to chance or luck. We all pray to be lucky, but if luck brings in something, you have to be delibrate to keep it else you may lose it
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+You lose most of your childhood friends as you get older
 
 ### Evidence from my life
 
-Add your answer here...
+I have lost most of my childhood friends to death, marriage, relocation, betrayal, disagreement, success mindset and pride.
 
 ---
 
@@ -135,11 +135,25 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+**Diokpa Raphael D.: Building Cloud Solutions, Empowering Engineers, and Inspiring the Next Generation**
+
+![image](screenshots\Week-01-screenshot-02.jpg)
+
+In today's rapidly evolving technology landscape, professionals who combine technical expertise with leadership and a passion for community are becoming increasingly valuable. Diokpa Raphael D. is one such professional. With more than five years of experience in DevOps and cloud engineering, he has built a reputation for helping organizations deliver applications efficiently by embracing DevOps culture, automation, and modern software delivery practices.
+
+Throughout his career, Raphael has worked with engineering teams to design and implement robust CI/CD pipelines, automate infrastructure, and improve deployment processes across cloud environments. His approach extends beyond technology; he believes that successful DevOps is built on collaboration, continuous improvement, and shared ownership. These principles have enabled him to lead engineering teams and contribute to the successful delivery of numerous software projects.
+
+A strong advocate for continuous learning, Raphael has earned professional certifications in both Microsoft Azure and Amazon Web Services (AWS), demonstrating his commitment to mastering industry best practices. His technical portfolio, available on GitHub at **https://github.com/czarhub**, showcases a growing collection of projects that reflect his practical experience and dedication to open-source learning.
+
+Beyond his professional responsibilities, Raphael is passionate about developing others. Through initiatives such as the AWS Community Builders program and the Pravin Mishra DMI Program, he has contributed to nurturing a community of aspiring cloud and DevOps engineers by sharing knowledge, mentoring learners, and encouraging continuous professional growth.
+
+Based in Lagos, Nigeria, Raphael balances his demanding career with a fulfilling family life alongside his wife and two children. He believes that professional success should complement, rather than replace, personal well-being. Family vacations and travel remain an important part of maintaining that balance.
+
+Perhaps the philosophy that best defines Raphael's journey is his belief that opportunities are rarely given—they are created. He has consistently demonstrated that growth comes from preparation, resilience, and an unwavering commitment to learning. As cloud technologies continue to reshape the future of software engineering, Diokpa Raphael D. stands as an example of a professional who is not only adapting to change but helping others navigate it as well.
+
 
 ### Public Link
-
-Paste your link here:
+Paste your link here: https://medium.com/@diokpadaberechi/diokpa-raphael-d-54782ea2a4c1
 
 `__________________________`
 
@@ -173,9 +187,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
-
----
+Yes, I have been dishonest before. I inflated the price of an item I purchased for my boss, added extra money for myself, and manipulated the receipt to hide it. The moment I submitted the receipt, I was overwhelmed by fear that I would be caught. That fear quickly turned into guilt, shame, and constant stress. Every conversation about finances made me anxious, and I lived with the regret of betraying someone's trust. Although no one confronted me at the time, the emotional burden stayed with me, leaving me numb and reminding me that dishonesty always comes at a much higher cost than the money gained.
 
 # Assignment 5. What are 10 non-fiction books you plan to read in the next 1 year?
 
@@ -199,16 +211,35 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The Magic of thinking big - David J. Schwartz
+![book1](screenshots/Week-01-screenshot-03.jpg)
+
+2. The Phycology of Money - Morgan Housel
+![book1](screenshots/Week-01-screenshot-04.jpg)
+
+3. The 5AM Club - Robin Sharma
+![book1](screenshots/Week-01-screenshot-05.jpg)
+
+4. Getting things Done - David Allen
+![book1](screenshots/Week-01-screenshot-06.jpg)
+
+5. The Start up of You - Reid Hoffman
+![book1](screenshots/Week-01-screenshot-07.jpg)
+
+6. Deep Work - Carl Newport
+![book1](screenshots/Week-01-screenshot-08.jpg)
+
+7. Crucial Conversations - Kerry Patterson
+![book1](screenshots/Week-01-screenshot-09.jpg)
+
+8. Leaders Eat Last - Simon Sinek
+![book1](screenshots/Week-01-screenshot-10.jpg)
+
+9. Extreme Ownership - Jacko Wilinks
+![book1](screenshots/Week-01-screenshot-11.jpg)
+
+10. The Millionaire Fastlane - MJ DeMarco
+![book1](screenshots/Week-01-screenshot-12.jpg)
 
 ---
 
@@ -237,16 +268,12 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours per week
+* Amount able to save in a month
+* Steps taken in a week
+* Time spent with Family and loved ones
+* Amount of Time Spent on Liesure and Relaxation
+* Quality of Project Shipped and Documented
 
 ---
 
@@ -272,7 +299,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,7 +317,11 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Mon - Friday 1 hour personal 
+* Monday - Friday 1:30mins of DMI Work
+* Sat: Workout/DMI 
+* Weekly Review and Plan for the new week
+
 
 ---
 
@@ -298,11 +329,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday - Friday 1:30mins
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+5 sessions per week
 
 ---
 
@@ -316,7 +347,8 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Phone on DnD
+* Early Morning/Late Night Session
 
 ---
 
@@ -324,15 +356,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I can't do everything but I can do anything I set my mind to do and I'll will be great at it
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Procastination
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Take action immediately I get a thought or document it 
 
 ### LinkedIn Post
 
