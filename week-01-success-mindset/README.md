@@ -71,7 +71,7 @@ Success is delibrate not by chance or luck
 
 ### Evidence from my life
 
-I have always seen positive result in my life when I don't live things to chance or luck. We all pray to be lucky, but if luck brings in something, you have to be delibrate to keep it else you may lose it
+I have always seen positive result in my life when I don't leave things to chance or luck. We all pray to be lucky, but if luck brings in something, you have to be delibrate to keep it else you may lose it
 
 ---
 
@@ -269,7 +269,7 @@ List topics only. No need to share numbers.
 ## My Metrics
 
 * Learning hours per week
-* Amount able to save in a month
+* Amount i'm able to save in a month
 * Steps taken in a week
 * Time spent with Family and loved ones
 * Amount of Time Spent on Liesure and Relaxation
@@ -368,7 +368,7 @@ Take action immediately I get a thought or document it
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+Paste your LinkedIn post link here: https://www.linkedin.com/posts/diokparaphael_successmindset-growthmindset-motivation-activity-7478849934444724224-AUM4?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU
 
 `__________________________`
 
@@ -376,8 +376,9 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/posts/diokparaphael_successmindset-growthmindset-motivation-activity-7478849934444724224-AUM4?utm_source=share&utm_medium=member_desktop&rcm=
+
+- Blog / Medium : https://medium.com/@diokpadaberechi/the-gods-are-not-to-blame-but-are-we-02541ef8609f
 
 ---
 
