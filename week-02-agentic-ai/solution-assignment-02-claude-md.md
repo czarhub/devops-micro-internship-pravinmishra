@@ -22,7 +22,9 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 Add your screenshot here.
 
----
+![image](screenshots/week2-screenshot-09.jpg)
+![image](screenshots/week2-screenshot-10.jpg)
+![image](screenshots/week2-screenshot-11.jpg)
 
 # Task 2 — Generate the First Draft with /init
 
@@ -36,7 +38,8 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 Add your screenshot here.
 
----
+![image](screenshots/week2-screenshot-12.jpg)
+![image](screenshots/week2-screenshot-13.jpg)
 
 # Task 3 — Customize the CLAUDE.md
 
@@ -48,7 +51,7 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-Add your screenshot here.
+![image](screenshots/week2-screenshot-14.jpg)
 
 ---
 
@@ -64,7 +67,8 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 Add your screenshot here.
 
----
+![image](screenshots/week2-screenshot-15.jpg)
+![image](screenshots/week2-screenshot-16.jpg)
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
