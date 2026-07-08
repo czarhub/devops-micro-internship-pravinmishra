@@ -42,7 +42,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 Add your screenshot here.
 
----
+![image](screenshots/week2-screenshot-03.jpg)
 
 # Task 3 — Observe the Agentic Loop
 
@@ -54,15 +54,17 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
 
-Add your screenshot here.
 
----
+![image](screenshots/week2-screenshot-04.jpg)
+![image](screenshots/week2-screenshot-05.jpg)
+![image](screenshots/week2-screenshot-06.jpg)
+![image](screenshots/week2-screenshot-07.jpg)
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
 Add your screenshot here.
 
----
+![image](screenshots/week2-screenshot-08.jpg)
 
 # Submission Instructions
 
@@ -77,7 +79,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+https://github.com/czarhub/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 
