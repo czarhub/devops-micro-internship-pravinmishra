@@ -74,7 +74,7 @@ Add your screenshot here.
 
 Add your screenshot here.
 
----
+![image](screenshots/week2-screenshot-17.jpg)
 
 # Task 5 — Commit and push your changes to your fork in GitHub
 
@@ -86,9 +86,8 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
 
----
+![image](screenshots/week2-screenshot-18.jpg)
 
 # Submission Instructions
 
@@ -102,7 +101,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+https://github.com/czarhub/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 
