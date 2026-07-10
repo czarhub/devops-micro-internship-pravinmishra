@@ -22,7 +22,7 @@ Create a team-level `settings.json` file with allow and deny rules for safe comm
 
 Add your screenshot here.
 
----
+![image](screenshots/week2-assignment6-screenshot01.jpg)
 
 # Task 2 — Add the UserPromptSubmit Hook
 
@@ -34,7 +34,7 @@ Add a hook that intercepts user prompts before Claude starts execution and block
 
 #### Screenshot 2 — settings.json showing UserPromptSubmit hook
 
-Add your screenshot here.
+![image](screenshots/week2-assignment6-screenshot02.jpg)
 
 ---
 
@@ -48,7 +48,7 @@ Extend `settings.json` with a PreToolUse hook that blocks dangerous Bash command
 
 #### Screenshot 3 — full settings.json with permissions and hooks
 
-Add your screenshot here.
+![image](screenshots/week2-assignment6-screenshot03.jpg)
 
 ---
 

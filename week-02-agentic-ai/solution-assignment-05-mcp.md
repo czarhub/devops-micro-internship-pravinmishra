@@ -22,7 +22,8 @@ Generate a GitHub Personal Access Token (PAT) that will be used for MCP authenti
 
 Add your screenshot here.
 
----
+![image](screenshots/week2-assignment5-screenshot01.jpg)
+![image](screenshots/week2-assignment5-screenshot02.jpg)
 
 # Task 2 — Create .mcp.json at the Project Root
 
@@ -34,7 +35,7 @@ Create and configure the `.mcp.json` file to define the GitHub MCP server.
 
 #### Screenshot 2 — `.mcp.json` open in VS Code showing the full configuration
 
-Add your screenshot here.
+![image](screenshots/week2-assignment5-screenshot03.jpg)
 
 ---
 
@@ -48,8 +49,7 @@ Store your GitHub token securely in `.claude/settings.local.json` and ensure it 
 
 #### Screenshot 3 — `settings.local.json` open in VS Code showing the `env` section — **blur or cover the actual GitHub token value**
 
-Add your screenshot here.
-
+![image](screenshots/week2-assignment5-screenshot04.jpg)
 ---
 
 # Task 4 — Verify the Connection with /mcp
@@ -62,7 +62,7 @@ Confirm that the GitHub MCP server is successfully connected inside Claude Code.
 
 #### Screenshot 4 — `/mcp` output showing `github: connected`
 
-Add your screenshot here.
+![image](screenshots/week2-assignment5-screenshot05.jpg)
 
 ---
 
@@ -76,7 +76,9 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 #### Screenshot 5 — Claude's response showing the GitHub MCP tool call and the retrieved README.md content.
 
-Add your screenshot here.
+![image](screenshots/week2-assignment5-screenshot06.jpg)
+
+![image](screenshots/week2-assignment5-screenshot07.jpg)
 
 ---
 
@@ -94,7 +96,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+https://github.com/czarhub/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 
@@ -102,21 +104,21 @@ Paste your forked repository URL here:
 
 Confirm below:
 
-- [ ] `settings.local.json` is added to `.gitignore`
-- [ ] GitHub token is NOT exposed in repository or screenshots
+- [YES ] `settings.local.json` is added to `.gitignore`
+- [YES ] GitHub token is NOT exposed in repository or screenshots
 
 ---
 
 # Completion Checklist
 
-- [ ] GitHub PAT created with correct scopes (`repo`, `read:user`)
-- [ ] `.mcp.json` created at project root
-- [ ] `.claude/settings.local.json` contains token (hidden in screenshot)
-- [ ] `.claude/settings.local.json` is NOT committed
-- [ ] `/mcp` shows GitHub connection as active
-- [ ] Live GitHub query returns real repository data
-- [ ] All required screenshots added
-- [ ] GitHub repository URL included
+- [YES ] GitHub PAT created with correct scopes (`repo`, `read:user`)
+- [ YES] `.mcp.json` created at project root
+- [YES ] `.claude/settings.local.json` contains token (hidden in screenshot)
+- [YES ] `.claude/settings.local.json` is NOT committed
+- [ YES] `/mcp` shows GitHub connection as active
+- [ YES] Live GitHub query returns real repository data
+- [ YES] All required screenshots added
+- [ YES] GitHub repository URL included
 
 ---
 
