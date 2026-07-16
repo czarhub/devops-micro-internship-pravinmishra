@@ -20,19 +20,23 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account is my personal gateway to Amazon's cloud infrastructure, it gives me access to services like servers, storage, and networking. At this stage of the course, I need it because I need a real cloud environment to provision and manage infrastructure. Without it, there's nowhere to build. I think of it as an empty Land without any buildings or constructions. 
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+AWS Free Tier is a set of services Amazon gives free of charge so you can learn and experiment without paying. This services are free as long as you maintained the free threshold as using the service more than what's stated in the free tier will incur charges. The AWS free tier can only last for 6 months
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+AWS Key Management Service - 20000.0 Requests are always free per month as part of AWS Free Usage Tier (Global-KMS-Requests)
+
+AWS Glue - 1000000.0 Request are always free per month as part of AWS Free Usage Tier (Global-Catalog-Request)
+
+Amazon Simple Notification Service - 1000000.0 Requests are always free per month as part of AWS Free Usage Tier (EUN1-Requests-Tier1)
 
 ---
 
@@ -56,7 +60,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment1-screenshot01.jpg)
 
 ---
 
