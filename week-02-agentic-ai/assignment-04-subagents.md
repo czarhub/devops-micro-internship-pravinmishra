@@ -20,7 +20,6 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
 
 ![image](screenshots/week2-assignment4-screenshot01.jpg)
 
@@ -115,11 +114,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 Paste your forked repository URL here:
 
-<<<<<<< HEAD
 https://github.com/czarhub/Ultimate-Agentic-DevOps-with-Claude-Code
-=======
-`Add your URL here`
->>>>>>> upstream/main
 
 ---
 
