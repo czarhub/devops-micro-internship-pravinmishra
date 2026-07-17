@@ -142,7 +142,7 @@ Verify the React application is publicly accessible via the server's public IP.
 
 https://www.linkedin.com/posts/diokparaphael_dmi-cohort-4-live-micro-internship-waiting-share-7483521623048986624-GRze/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU
 
-`__________________________`
+`Add your URL here`
 
 ---
 

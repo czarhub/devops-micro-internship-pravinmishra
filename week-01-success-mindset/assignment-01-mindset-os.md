@@ -155,7 +155,7 @@ Perhaps the philosophy that best defines Raphael's journey is his belief that op
 ### Public Link
 Paste your link here: https://medium.com/@diokpadaberechi/diokpa-raphael-d-54782ea2a4c1
 
-`__________________________`
+`Add your URL here`
 
 ---
 
@@ -370,7 +370,7 @@ Take action immediately I get a thought or document it
 
 Paste your LinkedIn post link here: https://www.linkedin.com/posts/diokparaphael_successmindset-growthmindset-motivation-activity-7478849934444724224-AUM4?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU
 
-`__________________________`
+`Add your URL here`
 
 ---
 
