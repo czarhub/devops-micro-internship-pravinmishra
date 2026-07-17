@@ -20,7 +20,6 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-Add your screenshot here.
 
 ![image](screenshots/week2-screenshot-09.jpg)
 ![image](screenshots/week2-screenshot-10.jpg)
@@ -36,7 +35,6 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-Add your screenshot here.
 
 ![image](screenshots/week2-screenshot-12.jpg)
 ![image](screenshots/week2-screenshot-13.jpg)
@@ -65,14 +63,11 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-Add your screenshot here.
-
 ![image](screenshots/week2-screenshot-15.jpg)
 ![image](screenshots/week2-screenshot-16.jpg)
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
 
 ![image](screenshots/week2-screenshot-17.jpg)
 

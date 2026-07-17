@@ -118,13 +118,15 @@ Verify the deployed website and Nginx service are healthy.
 
 Paste your LinkedIn post URL here:
 
-`__________________________`
+https://www.linkedin.com/posts/diokparaphael_dmicohort3-devops-agenticai-share-7484024088454205440-hzL9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+
+[image](screenshots/week3-Assignment4-screenshot09.jpg)
+
 
 ---
 
