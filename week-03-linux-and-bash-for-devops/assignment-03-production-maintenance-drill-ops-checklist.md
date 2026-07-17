@@ -332,7 +332,7 @@ I restored the application by replacing the empty web root with the backup copy 
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-To prevent this in a production environment, I would always create a backup before deploying any changes so I can quickly roll back if something goes wrong. I would also deploy each new release to a separate versioned directory and then update a folder, such as /var/www/current, to point to the new release. This approach ensures the live application is never left with missing or incomplete files during deployment and makes rollbacks fast and reliable.
+To prevent this kind of issue in production, I would always back up the current application before deploying any changes so I can quickly restore it if needed. I would also deploy new releases to a separate directory and only switch the live application over after verifying the deployment was successful. In addition, I'd automate the deployment process using a CI/CD pipeline to reduce manual errors and perform post-deployment health checks to ensure the application is running correctly before considering the deployment complete.
 
 ---
 
@@ -348,31 +348,31 @@ Answer the following in your own words:
 
 **1. Why is SSH key-based authentication more secure than sharing passwords?**
 
-Write your answer here.
+SSH key-based authentication is more secure than using passwords because it relies on a pair of cryptographic keys instead of a password that can be guessed or stolen. The private key stays securely on the user's device, while only the public key is stored on the server. Since the private key is never transmitted during authentication, it's much harder for attackers to intercept or compromise it. It also protects against brute-force and password-guessing attacks and eliminates the risks associated with weak or reused passwords.
 
 ---
 
 **2. Why should only required ports be open on a production server?**
 
-Write your answer here.
+Only the required ports should be open on a production server to reduce the attack surface and improve security. Every open port is a potential entry point for attackers, so exposing only the services that users actually need minimizes the risk of unauthorized access and exploitation. It also makes the server easier to monitor and manage, while reducing the chances of unnecessary services being targeted.
 
 ---
 
 **3. Why is it important for Nginx to be enabled on boot?**
 
-Write your answer here.
+It is important for Nginx to be enabled on boot so that the web server starts automatically whenever the server is restarted, whether it's due to maintenance, updates, or an unexpected reboot. This ensures the website or application becomes available again without requiring manual intervention, reducing downtime and improving service reliability.
 
 ---
 
 **4. What are the risks of sharing secrets, keys, or credentials publicly?**
 
-Write your answer here.
+Sharing secrets, keys, or credentials publicly is a major security risk because anyone who gains access to them can use them to access systems, applications, or cloud resources without authorization. This can lead to data breaches, service disruption, financial loss, or unauthorized changes to production environments. To prevent this, sensitive information should be stored securely using tools like environment variables, secret management services, or secure vaults, and never hard-coded into source code or shared in public repositories.
 
 ---
 
 **5. Why should cloud resources be stopped or terminated when they are no longer needed?**
 
-Write your answer here.
+Cloud resources should be stopped or terminated when they are no longer needed to avoid unnecessary costs and improve resource management. Many cloud services are billed based on usage, so leaving unused virtual machines, databases, or storage running can result in avoidable charges. Removing unused resources also reduces the attack surface, improves security, and keeps the cloud environment clean and easier to manage.
 
 ---
 
@@ -382,7 +382,7 @@ Write your answer here.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/diokparaphael_dmi-cohort-4-live-micro-internship-waiting-share-7483786395866718208-911Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU
 
 `__________________________`
 
@@ -390,7 +390,7 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot23.jpg)
 
 ---
 
