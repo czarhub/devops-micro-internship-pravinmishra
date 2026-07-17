@@ -20,25 +20,25 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot2.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot1.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot3.jpg)
 
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot4.jpg)
 
 ---
 
@@ -48,19 +48,21 @@ Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
+The `sudo ss -tulpen` output shows the entry `tcp LISTEN 0.0.0.0:80 ... nginx`, confirming that Nginx is actively listening on port 80. The `0.0.0.0` address indicates that Nginx is configured to listen on all available network interfaces rather than only the local interface, enabling it to receive HTTP requests from both local and external clients. The `nginx` process associated with port 80 further verifies that Nginx is the application occupying and serving traffic on that port.
+
 
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
+The `sudo ss -tulpen` output also includes the entry `tcp LISTEN 0.0.0.0:22 ... sshd`, indicating that the SSH daemon (`sshd`) is listening on port 22 on all available network interfaces. This configuration enables remote access to the server, allowing users to connect securely using commands such as `ssh ubuntu@<public-ip>`.
+
 
 ---
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
+No unexpected listening ports were detected. In addition to Nginx on port 80 and SSH on port 22, the only active services were chronyd (used for time synchronization) and systemd-resolved (used for DNS resolution). Both services were bound exclusively to loopback addresses (127.0.0.1, 127.0.0.53, and 127.0.0.54), making them inaccessible from external networks. This confirms that only the intended services—Nginx and SSH—are exposed to external connections.
 
 ---
 
@@ -74,19 +76,19 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot5.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot6.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot7.jpg)
 
 ---
 
@@ -96,13 +98,13 @@ Answer the following in your own words:
 
 **1. What happens if Nginx fails to restart in production?**
 
-Write your answer here.
+If Nginx fails to restart in a production environment, it may stop serving web traffic, making websites or APIs unavailable to users. Since Nginx often acts as a web server, reverse proxy, or load balancer, the failure can result in downtime, HTTP 502/503 errors, or interrupted communication between clients and backend services.
 
 ---
 
 **2. What's your basic rollback plan?**
 
-Write your answer here.
+Before making any configuration changes, run sudo nginx -t to validate the syntax and catch errors early. If Nginx fails to restart, check the service status with systemctl status nginx and review the logs using sudo journalctl -u nginx. If the issue is a faulty configuration, restore the last known good version, validate it again with nginx -t, and restart the service. Keeping a backup of the working configuration ensures a quick and reliable rollback.
 
 ---
 
@@ -116,19 +118,19 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot8.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot9.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot10.jpg)
 
 ---
 
@@ -141,19 +143,19 @@ Answer the following in your own words:
 - If yes, mention 1–2 example error lines from the logs and explain what each one means in simple terms.
 - If no, explain what it means if the error log is empty or shows no recent errors during your check.
 
-Write your answer here.
+No errors were found in the logs shown. The output indicates that Nginx restarted successfully without any configuration or runtime issues.
 
 ---
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
+No errors were found in the logs, which indicates that Nginx started and stopped successfully without encountering configuration, permission, or runtime issues. The only message in the error log was a notice about inherited sockets, which is expected during a graceful restart and does not indicate a problem."
 
 ---
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
+Yes. The access log contains the entry "GET / HTTP/1.1" 200 with the User-Agent curl/7.74.0, confirming that my curl request reached the Nginx server, was processed successfully, and was recorded in the access log.
 
 ---
 
@@ -167,25 +169,25 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot11.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot12.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot13.jpg)
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot14.jpg)
 
 ---
 
@@ -195,13 +197,13 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
+The disk is the resource that looks most critical at the moment. The df -h output shows that the root filesystem (/dev/root) is 60% utilized, with 4.0 GB used out of 6.7 GB and only 2.7 GB of free space remaining. While this is still within a safe operating range, it has less available capacity than the other resources and should be monitored to prevent future storage issues.
 
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-Write your answer here.
+If the disk becomes 100% full, applications may fail because they cannot write logs, temporary files, or application data. Databases may stop accepting writes, services like Nginx may fail to start or reload if they need to create log files or temporary files, and the operating system may become unstable. In severe cases, users may experience application downtime or failed transactions.
 
 ---
 
@@ -215,19 +217,19 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot15.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot16.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot17.jpg)
 
 ---
 
@@ -237,7 +239,7 @@ Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
 
-Write your answer here.
+I verified that the correct version of the application was deployed using several checks. First, I used ls -lah /var/www/html to confirm that the production build files, including index.html and the compiled static assets, were present and owned by the www-data user. Next, I ran grep -R "Deployed by" to verify that my custom deployment identifier was included in the deployed files, confirming that the latest build—not an older version—was live. I also checked the Nginx configuration to ensure the try_files directive was configured to route all unmatched requests to index.html, allowing the React single-page application to handle client-side routing correctly. Finally, I validated everything by sending a curl request to the server and confirming that it served the expected application over HTTP, ensuring the deployed files matched what users were actually accessing.
 
 ---
 
@@ -251,19 +253,19 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot18.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot19.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot20.jpg)
 
 ---
 
@@ -273,19 +275,20 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
-Write your answer here.
+The issue was caused by one missing semicolons in /etc/nginx/sites-available/default. it was intentionally removed from the try_files $uri /index.html; directive as part of the task. Because Nginx requires each directive to end with a semicolon, this omissions caused the configuration parser to fail, resulting in a syntax error that prevented Nginx from loading the server block correctly.
 
 ---
 
 **2. How did you fix the issue?**
 
-Write your answer here.
+Reopened the config file and restored the missing semicolons, then re-ran sudo nginx -t to confirm the syntax was valid before restarting the service. Only after seeing syntax is ok / test is successful was systemctl restart nginx run, followed by an external curl -I check to confirm the live application was serving correctly again.
+
 
 ---
 
 **3. How can you avoid this kind of issue in real production systems?**
 
-Write your answer here.
+To prevent this kind of issue in production, I always validate the Nginx configuration with nginx -t after making any changes and before restarting or reloading the service. I also keep configuration files in Git so I can quickly roll back to a working version if something goes wrong. Whenever possible, I test configuration changes in a staging environment before deploying them to production, and I use automated validation in the CI/CD pipeline to catch configuration errors before they reach the live server.
 
 ---
 
@@ -299,13 +302,15 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-Add your screenshot here.
+
+![image](screenshots/week3-Assignment3-screenshot21.jpg)
+
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![image](screenshots/week3-Assignment3-screenshot22.jpg)
 
 ---
 
@@ -315,19 +320,19 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
+The application stopped working because all the files in the web root directory (/var/www/html), which Nginx uses to serve the website, were removed. Although Nginx was still running and its configuration was correct, it had no application files or fallback page to serve, so it responded with a 500 Internal Server Error instead of loading the React application.
 
 ---
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
+I restored the application by replacing the empty web root with the backup copy that I had created before making any changes. After moving the backup back to /var/www/html, I restarted Nginx to ensure it was serving the restored files correctly. Finally, I verified the recovery using curl -I, which returned a 200 OK response with the same content details, such as Content-Length, Last-Modified, and ETag, confirming that the original application had been successfully restored.
 
 ---
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+To prevent this in a production environment, I would always create a backup before deploying any changes so I can quickly roll back if something goes wrong. I would also deploy each new release to a separate versioned directory and then update a folder, such as /var/www/current, to point to the new release. This approach ensures the live application is never left with missing or incomplete files during deployment and makes rollbacks fast and reliable.
 
 ---
 
