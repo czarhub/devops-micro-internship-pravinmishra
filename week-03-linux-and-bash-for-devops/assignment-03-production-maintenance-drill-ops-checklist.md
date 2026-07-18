@@ -20,25 +20,25 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-![image](screenshots/week3-Assignment3-screenshot2.jpg)
+![image](screenshots/week3-Assignment3-Screenshot2.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-![image](screenshots/week3-Assignment3-screenshot1.jpg)
+![image](screenshots/week3-Assignment3-Screenshot1.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-![image](screenshots/week3-Assignment3-screenshot3.jpg)
+![image](screenshots/week3-Assignment3-Screenshot3.jpg)
 
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-![image](screenshots/week3-Assignment3-screenshot4.jpg)
+![image](screenshots/week3-Assignment3-Screenshot4.jpg)
 
 ---
 
@@ -76,19 +76,19 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-![image](screenshots/week3-Assignment3-screenshot5.jpg)
+![image](screenshots/week3-Assignment3-Screenshot5.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-![image](screenshots/week3-Assignment3-screenshot6.jpg)
+![image](screenshots/week3-Assignment3-Screenshot6.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-![image](screenshots/week3-Assignment3-screenshot7.jpg)
+![image](screenshots/week3-Assignment3-Screenshot7.jpg)
 
 ---
 
@@ -118,19 +118,19 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-![image](screenshots/week3-Assignment3-screenshot8.jpg)
+![image](screenshots/week3-Assignment3-Screenshot8.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-![image](screenshots/week3-Assignment3-screenshot9.jpg)
+![image](screenshots/week3-Assignment3-Screenshot9.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-![image](screenshots/week3-Assignment3-screenshot10.jpg)
+![image](screenshots/week3-Assignment3-Screenshot10.jpg)
 
 ---
 
@@ -169,25 +169,25 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-![image](screenshots/week3-Assignment3-screenshot11.jpg)
+![image](screenshots/week3-Assignment3-Screenshot11.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-![image](screenshots/week3-Assignment3-screenshot12.jpg)
+![image](screenshots/week3-Assignment3-Screenshot12.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-![image](screenshots/week3-Assignment3-screenshot13.jpg)
+![image](screenshots/week3-Assignment3-Screenshot13.jpg)
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-![image](screenshots/week3-Assignment3-screenshot14.jpg)
+![image](screenshots/week3-Assignment3-Screenshot14.jpg)
 
 ---
 
@@ -217,19 +217,19 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-![image](screenshots/week3-Assignment3-screenshot15.jpg)
+![image](screenshots/week3-Assignment3-Screenshot15.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-![image](screenshots/week3-Assignment3-screenshot16.jpg)
+![image](screenshots/week3-Assignment3-Screenshot16.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-![image](screenshots/week3-Assignment3-screenshot17.jpg)
+![image](screenshots/week3-Assignment3-Screenshot17.jpg)
 
 ---
 
@@ -253,19 +253,19 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-![image](screenshots/week3-Assignment3-screenshot18.jpg)
+![image](screenshots/week3-Assignment3-Screenshot18.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-![image](screenshots/week3-Assignment3-screenshot19.jpg)
+![image](screenshots/week3-Assignment3-Screenshot19.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-![image](screenshots/week3-Assignment3-screenshot20.jpg)
+![image](screenshots/week3-Assignment3-Screenshot20.jpg)
 
 ---
 
@@ -303,14 +303,14 @@ Simulate missing deployment content and recover the application safely.
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
 
-![image](screenshots/week3-Assignment3-screenshot21.jpg)
+![image](screenshots/week3-Assignment3-Screenshot21.jpg)
 
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-![image](screenshots/week3-Assignment3-screenshot22.jpg)
+![image](screenshots/week3-Assignment3-Screenshot22.jpg)
 
 ---
 
@@ -390,7 +390,7 @@ https://www.linkedin.com/posts/diokparaphael_dmi-cohort-4-live-micro-internship-
 
 #### Screenshot — Published LinkedIn post
 
-![image](screenshots/week3-Assignment3-screenshot23.jpg)
+![image](screenshots/week3-Assignment3-Screenshot23.jpg)
 
 ---
 
