@@ -148,7 +148,7 @@ https://www.linkedin.com/posts/diokparaphael_dmi-cohort-4-live-micro-internship-
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-![image](screenshots/week3-Assignment2-Screenshot10.jpg)
+![image](screenshots/week3-Assignment2-Screenshot11.jpg)
 
 ---
 

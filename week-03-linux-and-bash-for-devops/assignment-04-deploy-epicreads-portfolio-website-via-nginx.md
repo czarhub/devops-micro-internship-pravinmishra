@@ -106,7 +106,7 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-[image](screenshots/week3-Assignment4-Screenshot08.jpg)
+![image](screenshots/week3-Assignment4-Screenshot08.jpg)
 
 ---
 
@@ -124,8 +124,7 @@ https://www.linkedin.com/posts/diokparaphael_dmicohort3-devops-agenticai-share-7
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-
-[image](screenshots/week3-Assignment4-Screenshot09.jpg)
+![image](screenshots/week3-Assignment4-Screenshot09.jpg)
 
 
 ---
