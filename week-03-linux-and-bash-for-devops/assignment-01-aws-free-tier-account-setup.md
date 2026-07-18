@@ -60,7 +60,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-![image](screenshots/week3-Assignment1-screenshot01.jpg)
+![image](screenshots/week3-Assignment1-Screenshot01.jpg)
 
 ---
 
