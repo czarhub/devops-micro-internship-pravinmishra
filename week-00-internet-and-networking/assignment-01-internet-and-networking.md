@@ -23,18 +23,15 @@ Take a screenshot of your interaction showing:
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![image](screenshots\Week00-Task-1-chatgpt.jpg)
 
-
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+A networking protocol is like a rulebook for communication that ensures devices can “talk” to each other reliably and correctly.
 
 ---
 
@@ -59,7 +56,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user anywhere in the world visits EpicReads, their device sends a request over the internet using the TCP/IP model. The request is broken into small chunks through Packet Switching, allowing it to travel efficiently across multiple routes. Each packet contains the destination IP Address of the server hosted in Finland, ensuring it reaches the correct location. Once the packets arrive, they are reassembled into the original request. The communication between the user’s browser and the EpicReads website happens using HTTP or the more secure HTTPS, which encrypts data for safety. This entire process happens within seconds, enabling seamless global access.
 
 ---
 
@@ -91,10 +88,8 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots\Week00-Task-3-diagram.jpg)
 
-
-Replace `task-3-diagram.png` with your actual diagram file name.
 
 ---
 
@@ -102,18 +97,20 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React.js
+* HTMK/CSS/JavaScript
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Python (Django/Flask)
+* C# (ASP.NET)
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* PostgreSQL
+* MySQL
+* MongoDB
 
 ---
 
@@ -142,7 +139,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+The Domain Name System (DNS) is like the internet’s phonebook—it translates a human-friendly name like epicreads.com into a machine-readable IP address such as 52.172.142.222. To connect the domain to this IP, you should use an A record. This is because an A record directly maps a domain name to an IPv4 address, allowing users to access EpicReads by typing the domain instead of the numeric IP.
 
 ---
 
@@ -178,10 +175,9 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots\Week00-Task-5-vscode.jpg)
 
 
-Replace `task-5-vscode.png` with your actual screenshot file name.
 
 ---
 
@@ -217,8 +213,7 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
+https://www.linkedin.com/feed/update/urn:li:groupPost:3726537-7484497337646657536/
 ```
 
 ---
@@ -227,7 +222,38 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🚀 My DevOps Learning Journey – Key Concepts Simplified
+
+💡 ChatGPT
+
+Using tools like ChatGPT has helped me break down complex technical concepts into simple, practical explanations—making learning faster and more effective.
+
+🌐 Internet & Networking
+
+The internet works through rules called protocols like TCP/IP and HTTP. Data is sent using Packet Switching, where information is split into smaller pieces and routed efficiently. Every device has a unique IP Address to ensure accurate delivery.
+
+🏗️ App Architecture
+
+Modern applications are structured into three layers:
+
+Frontend: User interface (React, HTML/CSS/JS)
+Backend: Handles logic & APIs (Node.js, ASP.NET, Python)
+Database: Stores data (PostgreSQL, MySQL, MongoDB)
+
+This layered approach improves scalability and maintainability.
+
+🌍 DNS
+
+The Domain Name System translates domain names (like epicreads.com) into IP addresses. To connect a domain to a server, an A record is used because it directly maps the domain to an IPv4 address.
+
+🛠️ VS Code Setup
+
+For development, Visual Studio Code is a powerful and lightweight editor. Key extensions include Docker, GitHub Copilot, Prettier, and Azure Tools—helping streamline coding, debugging, and deployments.
+
+📌 Key Takeaway:
+Understanding these foundational concepts is essential for anyone starting a journey into Cloud, DevOps, or Software Engineering.
+
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra. You can start your DevOps journey for free from his YouTube Playlist.
 
 ---
 
@@ -235,19 +261,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found everything easy as this is the begining and I already understand the basic concept
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Nothing was difficult
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Commitment and more structured and intentional approach towards learning
 
 ---
 
