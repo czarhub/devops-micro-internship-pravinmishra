@@ -91,7 +91,7 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 Paste your Linkedin post link here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/share-7485090591354155008-TyZS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU
 
 ---
 
@@ -99,7 +99,7 @@ Paste your Linkedin post link here:
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/czarhub/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/assignment-01-setup-agentic-loop.md
 
 ---
 
