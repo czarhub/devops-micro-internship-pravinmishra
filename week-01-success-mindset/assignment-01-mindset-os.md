@@ -137,7 +137,8 @@ Include this line:
 
 **Diokpa Raphael D.: Building Cloud Solutions, Empowering Engineers, and Inspiring the Next Generation**
 
-![image](screenshots\Week-01-screenshot-02.jpg)
+![image](screenshots/Week-01-screenshot-02.jpg)
+
 
 In today's rapidly evolving technology landscape, professionals who combine technical expertise with leadership and a passion for community are becoming increasingly valuable. Diokpa Raphael D. is one such professional. With more than five years of experience in DevOps and cloud engineering, he has built a reputation for helping organizations deliver applications efficiently by embracing DevOps culture, automation, and modern software delivery practices.
 
