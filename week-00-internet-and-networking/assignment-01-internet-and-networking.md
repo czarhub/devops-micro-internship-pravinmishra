@@ -24,7 +24,7 @@ Take a screenshot of your interaction showing:
 ## Screenshot
 
 
-![image](screenshots\Week00-Task-1-chatgpt.jpg)
+![image](screenshots\week00-Task-1-chatgpt.jpg)
 
 
 ---
@@ -88,7 +88,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots\Week00-Task-3-diagram.jpg)
+![Application Architecture Diagram](screenshots\week00-Task-3-diagram.jpg)
 
 
 ---
@@ -175,7 +175,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots\Week00-Task-5-vscode.jpg)
+![VS Code Setup Screenshot](screenshots\week00-Task-5-vscode.jpg)
 
 
 
