@@ -20,8 +20,6 @@ Create the `.claude` directory structure required for team-level Claude Code con
 
 #### Screenshot 1 — `.claude` folder structure visible in VS Code Explorer
 
-Add your screenshot here.
-
 ![image](screenshots/week2-assignment6-screenshot01.jpg)
 
 # Task 2 — Create the UserPromptSubmit Hook Script
