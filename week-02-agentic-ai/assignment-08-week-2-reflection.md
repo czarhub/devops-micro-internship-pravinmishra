@@ -46,15 +46,14 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
 
----
+![image](screenshots/week2-assignment8-screenshot01.jpg)
 
 ### Submission Field
 
 Blog Link:
 
-`Add your URL here`
+https://medium.com/@diokpadaberechi/reflection-week-2-187e74e47497
 
 ---
 
@@ -92,7 +91,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![image](screenshots/week2-assignment8-screenshot02.jpg)
 
 ---
 
@@ -101,14 +100,51 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
-```
+
+🚀 Week 2 of #DMICohort3: AI Is More Than a Coding Assistant
+
+This week completely changed how I think about AI tooling. I used to see AI as a smart autocomplete or chatbot. Now, I see it as a configurable teammate that can follow project rules, automate workflows, delegate tasks, and remember context across sessions.
+
+Here's what I learned:
+
+🔹 Setting up an Agentic AI Development Environment
+ I installed and authenticated Claude Code CLI, cloned a starter repository, and explored how the Agentic Loop (Gather → Act → Verify) works in real-world development.
+
+🔹 Project Configuration with CLAUDE.md
+Initialized and customized a CLAUDE.md file with project-specific rules, then tested how those rules influenced Claude's responses through before-and-after comparisons.
+
+🔹 Building Reusable AI Skills
+ I created a local .claude/skills/ directory, added predefined Skills, and executed /scaffold-terraform to automatically generate infrastructure code. This showed me how Skills can standardize workflows while enforcing tool restrictions.
+
+🔹 Creating Specialized AI Subagents
+ I configured multiple AI subagents with different models and permissions, then delegated real tasks to analyze the security and cost of Terraform infrastructure. It was interesting to see how the right agent could be selected for the right job.
+
+🔹 Connecting AI to External Systems with MCP
+ I configured the GitHub Model Context Protocol (MCP) server, securely stored credentials, verified the connection, and successfully queried live GitHub data directly through Claude Code.
+
+🔹 Implementing Safety Controls
+ I configured permissions and hooks to prevent destructive commands before execution, demonstrating how AI workflows can be governed with clear guardrails.
+
+🔹 Understanding AI Memory
+ One of the biggest takeaways was Claude Code's memory system. I stored structured project knowledge, restarted the session, and confirmed that it could recall and apply that information without me repeating it.
+
+My Biggest Takeaway
+AI becomes significantly more valuable when it's given structure. By defining clear instructions, reusable skills, specialized agents, memory, and safety controls, it evolves from simply answering prompts to becoming a reliable development partner.
+
+I'm excited to continue exploring how Agentic AI can improve cloud engineering, DevOps, and infrastructure automation.
+
+#AI #AgenticAI #ClaudeCode #DevOps #CloudEngineering #Terraform #GitHub #Automation #MCP #InfrastructureAsCode #LearningInPublic #DMICohort3
+
+Pravin Mishra Anjana Muthunayake Joy Ukpabi
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://lnkd.in/e3SJYSBj). My graded progress is public: https://lnkd.in/e336Sk_j Start your DevOps journey: https://lnkd.in/eFAbcnaK
+
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+https://www.linkedin.com/posts/diokparaphael_dmicohort3-ai-agenticai-ugcPost-7485220134454898688-8PhS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU
 
 ---
 
