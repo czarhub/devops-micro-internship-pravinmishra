@@ -144,7 +144,7 @@ P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — 
 
 ### LinkedIn Post Link:
 
-https://www.linkedin.com/posts/diokparaphael_dmicohort3-ai-agenticai-ugcPost-7485220134454898688-8PhS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU
+https://www.linkedin.com/posts/diokparaphael_dmicohort3-ai-agenticai-ugcPost-7485220134454898688-8PhS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU 
 
 ---
 
