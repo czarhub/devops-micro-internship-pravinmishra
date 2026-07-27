@@ -546,7 +546,7 @@ https://www.linkedin.com/posts/diokparaphael_dmicohort3-devops-linux-ugcPost-748
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-`Add your URL here`
+https://github.com/czarhub/devops-micro-internship-pravinmishra/blob/main/week-03-linux-and-bash-for-devops/assignment-06-ai-assisted-linux-health-check.md
 
 ---
 
