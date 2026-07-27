@@ -133,8 +133,8 @@ Week 03 → Linux & Bash for DevOps
 | 00 | Internet & Networking Basics | ✅ Completed |  | https://www.linkedin.com/posts/share-7484816786966896640-I3fn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU | https://medium.com/@diokpadaberechi/my-devops-learning-journey-key-concepts-simplified-6a7bedcfb6fa|
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/diokparaphael_successmindset-growthmindset-motivation-activity-7478849934444724224-AUM4?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU | https://medium.com/@diokpadaberechi/diokpa-raphael-d-54782ea2a4c1 |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/diokparaphael_dmicohort3-ai-agenticai-ugcPost-7485220134454898688-8PhS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU | https://medium.com/@diokpadaberechi/reflection-week-2-187e74e47497 |
-| 03 | Linux & Bash for DevOps | 🔄 In Progress | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/diokparaphael_dmicohort3-devops-aws-share-7487639323576713216-JrXJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU | https://medium.com/@diokpadaberechi/week-3-learning-devops-beyond-deployment-52823191ed03|
+| 04 | Git & GitHub | 🔄 In Progress| ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
