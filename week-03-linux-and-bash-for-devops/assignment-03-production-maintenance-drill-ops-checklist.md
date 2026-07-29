@@ -384,7 +384,6 @@ Cloud resources should be stopped or terminated when they are no longer needed t
 
 https://www.linkedin.com/posts/diokparaphael_dmi-cohort-4-live-micro-internship-waiting-share-7483786395866718208-911Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU
 
-`Add your URL here`
 
 ---
 
