@@ -124,8 +124,6 @@ if git diff --cached -- "$file" | grep -qE 'AKIA[0-9A-Z]{16}|-----BEGIN (RSA|OPE
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
 
-Add your answer here.
-
 No it couldn't. The hook only scans for patterns it already knows — like AKIA (AWS key prefix) or specific regex rules.
 
 # Task 4 — Build the `/pr-ready` Skill
