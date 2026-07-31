@@ -80,7 +80,7 @@ Week 03 → Linux & Bash for DevOps
 [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
 <!-- Week 04 → Git & GitHub -->
-<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) -->
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/)
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
 <!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
@@ -133,8 +133,8 @@ Week 03 → Linux & Bash for DevOps
 | 00 | Internet & Networking Basics | ✅ Completed |  | https://www.linkedin.com/posts/share-7484816786966896640-I3fn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU | https://medium.com/@diokpadaberechi/my-devops-learning-journey-key-concepts-simplified-6a7bedcfb6fa|
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/diokparaphael_successmindset-growthmindset-motivation-activity-7478849934444724224-AUM4?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU | https://medium.com/@diokpadaberechi/diokpa-raphael-d-54782ea2a4c1 |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/diokparaphael_dmicohort3-ai-agenticai-ugcPost-7485220134454898688-8PhS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU | https://medium.com/@diokpadaberechi/reflection-week-2-187e74e47497 |
-| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/diokparaphael_dmicohort3-devops-aws-share-7487639323576713216-JrXJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU | https://medium.com/@diokpadaberechi/week-3-learning-devops-beyond-deployment-52823191ed03|
-| 04 | Git & GitHub | 🔄 In Progress| ⏳ Pending | — | — |
+| 03 | Linux & Bash for DevOps | ✅ Completed| ✅ Solved| https://www.linkedin.com/posts/diokparaphael_dmicohort3-devops-aws-share-7487639323576713216-JrXJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU | https://medium.com/@diokpadaberechi/week-3-learning-devops-beyond-deployment-52823191ed03|
+| 04 | Git & GitHub | ✅ Completed| ✅ Solved| https://www.linkedin.com/posts/diokparaphael_dmi-devops-git-share-7488816460945924096-33Cc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU | https://medium.com/@diokpadaberechi/from-simple-git-commits-to-an-ai-assisted-git-safety-net-61bedc383df0|
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
