@@ -20,7 +20,7 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 #### Screenshot 1 — Jira "Create project" screen, or the project sidebar after creation
 
-Add your screenshot here.
+![image](screenshots/Week5-Assignment04-Screenshot01.jpg)
 
 ---
 
@@ -28,7 +28,13 @@ Add your screenshot here.
 
 Write one line for each role: PO (what you prioritized), SM (how you ensured process), Dev Lead (what you built), DevOps Lead (how you shipped).
 
-Write your answer here.
+PO (Product Owner): Responsible for maximizing the value of the product by identifying priorities and deciding what should be built first. In Solo Mode, this involves reviewing and ranking Stories based on business and user value.
+
+SM (Scrum Master): Responsible for facilitating the Scrum process and ensuring that the agreed practices are followed. This includes managing timeboxes, facilitating sprint ceremonies such as planning and retrospectives, and maintaining accountability throughout the sprint.
+
+Dev Lead: Responsible for translating the selected Story into a working solution. This includes leading the implementation, development, and completion of the UI Story selected for the sprint.
+
+DevOps Lead: Responsible for ensuring that completed work is properly committed, deployed, and verified. This includes managing the deployment process, confirming that the change is successfully released, and verifying that it is working in the live environment.
 
 ---
 
@@ -42,7 +48,7 @@ Create a Team-managed Scrum project named `Gotto Job – Team <#>` (Team Mode) o
 
 #### Screenshot 2 — Project created page showing the project name and key
 
-Add your screenshot here.
+![image](screenshots/Week5-Assignment04-Screenshot02.jpg)
 
 ---
 
@@ -56,7 +62,8 @@ Create the Epic `Improve Gotto Job UI discoverability & trust` to group the UI i
 
 #### Screenshot 3 — Backlog showing the Epic panel with the Epic visible
 
-Add your screenshot here.
+![image](screenshots/Week5-Assignment04-Screenshot03.jpg)
+
 
 ---
 
@@ -70,13 +77,13 @@ Create at least six Stories under the Epic, estimate each with 1, 2, or 3 story 
 
 #### Screenshot 4 — Backlog showing the Epic and at least six Stories under it
 
-Add your screenshot here.
+![image](screenshots/Week5-Assignment04-Screenshot04.jpg)
 
 ---
 
 #### Screenshot 5 — One Story opened showing its Story Points and acceptance criteria filled in
 
-Add your screenshot here.
+![image](screenshots/Week5-Assignment04-Screenshot05.jpg)
 
 ---
 
@@ -90,7 +97,7 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 #### Screenshot 6 — Backlog showing Story Points visible, or two or three Stories opened showing their points
 
-Add your screenshot here.
+![image](screenshots/Week5-Assignment04-Screenshot06.jpg)
 
 ---
 
@@ -98,7 +105,19 @@ Add your screenshot here.
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+Job card typography -2- Requires adjusting typography across job cards and checking that the changes remain consistent and readable. It involves more UI work than a simple text change.
+
+Remote badge (UI-only)	2	Requires adding and styling a new UI badge, including positioning and visual consistency with the existing job card design.
+
+Advanced search labels	2	Involves improving multiple search/filter labels and ensuring they are clear and consistent throughout the search experience.
+
+Hero tagline clarity	1	Mainly a content/UI text improvement. It requires changing the tagline and verifying that it communicates the intended message clearly.
+
+Primary CTA color	1	A straightforward visual change involving the main CTA button's color, followed by a quick check of its appearance.
+
+Posted on <date> text	1	A small UI/content adjustment to make the posting date clearer and more readable.
+
+Job detail Apply Now CTA	1	A focused UI improvement to the Apply Now button on the job details page, with limited implementation complexity.
 
 ---
 
@@ -112,13 +131,13 @@ Create Sprint 1, move three or four Stories into it (approximately 3–6 points)
 
 #### Screenshot 7 — Sprint 1 with the selected Stories inside it
 
-Add your screenshot here.
+![image](screenshots/Week5-Assignment04-Screenshot07.jpg)
 
 ---
 
 #### Screenshot 8 — One Story showing the Sub-tasks created
 
-Add your screenshot here.
+![image](screenshots/Week5-Assignment04-Screenshot08.jpg)
 
 ---
 
@@ -132,8 +151,8 @@ Open the Burndown Chart and confirm it exists for Sprint 1. It is acceptable if 
 
 #### Screenshot 9 — Burndown Chart page opened, even if empty
 
-Add your screenshot here.
 
+![image](screenshots/Week5-Assignment04-Screenshot09.jpg)
 ---
 
 # Task 8 — Ship One Small Increment (Build + Deploy + Proof)
@@ -146,19 +165,20 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 10 — Jira board showing the Story moved to Done
 
-Add your screenshot here.
+![image](screenshots/Week5-Assignment04-Screenshot10.jpg)
 
 ---
 
 #### Screenshot 11 — Git commit output
 
-Add your screenshot here.
+![image](screenshots/Week5-Assignment04-Screenshot11.jpg)
 
 ---
 
 #### Screenshot 12 — Live URL in the browser showing the UI change, with the URL visible
 
-Add your screenshot here.
+
+![image](screenshots/Week5-Assignment04-Screenshot12.jpg)
 
 ---
 
@@ -174,7 +194,7 @@ Add a retro comment covering what went well, what to improve, one Scrum pillar o
 
 Add your screenshot here.
 
----
+![image](screenshots/Week5-Assignment04-Screenshot13.jpg)
 
 # Task 10 — LinkedIn Post (Mandatory)
 
@@ -188,13 +208,13 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/diokparaphael_dmicohort3-devops-aws-share-7496050275577835520--LcM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU
 
 ---
 
 #### Screenshot 14 — Published LinkedIn post
 
-Add your screenshot here.
+![image](screenshots/Week5-Assignment04-Screenshot14.jpg)
 
 ---
 

@@ -135,7 +135,7 @@ Week 03 → Linux & Bash for DevOps
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/diokparaphael_dmicohort3-ai-agenticai-ugcPost-7485220134454898688-8PhS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU | https://medium.com/@diokpadaberechi/reflection-week-2-187e74e47497 |
 | 03 | Linux & Bash for DevOps | ✅ Completed| ✅ Solved| https://www.linkedin.com/posts/diokparaphael_dmicohort3-devops-aws-share-7487639323576713216-JrXJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU | https://medium.com/@diokpadaberechi/week-3-learning-devops-beyond-deployment-52823191ed03|
 | 04 | Git & GitHub | ✅ Completed| ✅ Solved| https://www.linkedin.com/posts/diokparaphael_dmi-devops-git-share-7488816460945924096-33Cc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABJFGsoB0Tj582Besj5R2uLnB6itVJv47yU | https://medium.com/@diokpadaberechi/from-simple-git-commits-to-an-ai-assisted-git-safety-net-61bedc383df0|
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ⏳ Pending| ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
