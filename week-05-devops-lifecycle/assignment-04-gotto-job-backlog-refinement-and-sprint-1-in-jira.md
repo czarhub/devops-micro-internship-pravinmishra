@@ -151,7 +151,6 @@ Open the Burndown Chart and confirm it exists for Sprint 1. It is acceptable if 
 
 #### Screenshot 9 — Burndown Chart page opened, even if empty
 
-
 ![image](screenshots/Week5-Assignment04-Screenshot09.jpg)
 ---
 
@@ -177,7 +176,6 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 12 — Live URL in the browser showing the UI change, with the URL visible
 
-
 ![image](screenshots/Week5-Assignment04-Screenshot12.jpg)
 
 ---
@@ -191,8 +189,6 @@ Add a retro comment covering what went well, what to improve, one Scrum pillar o
 ### Evidence
 
 #### Screenshot 13 — Jira retro comment visible
-
-Add your screenshot here.
 
 ![image](screenshots/Week5-Assignment04-Screenshot13.jpg)
 
