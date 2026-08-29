@@ -20,19 +20,19 @@ Create `epicbook-vpc` (10.0.0.0/16) with a public subnet (10.0.1.0/24) and a pri
 
 #### Screenshot 1 — VPC details showing CIDR 10.0.0.0/16
 
-Add your screenshot here.
+![image](screenshots/Week6-Assignment04-Screenshot01.jpg)
 
 ---
 
 #### Screenshot 2 — Subnets list showing both subnets and their CIDRs
 
-Add your screenshot here.
+![image](screenshots/Week6-Assignment04-Screenshot02.jpg)
 
 ---
 
 #### Screenshot 3 — Route table showing 0.0.0.0/0 → IGW and association with the public subnet
 
-Add your screenshot here.
+![image](screenshots/Week6-Assignment04-Screenshot03.jpg)
 
 ---
 
@@ -46,13 +46,13 @@ Create `epicbook-ec2-sg` (SSH from your IP, HTTP/HTTPS public) and `epicbook-rds
 
 #### Screenshot 4 — EC2 security-group inbound rules showing ports and sources
 
-Add your screenshot here.
+![image](screenshots/Week6-Assignment04-Screenshot04.jpg)
 
 ---
 
 #### Screenshot 5 — RDS security-group inbound rule showing MySQL 3306 allowed from the EC2 security group
 
-Add your screenshot here.
+![image](screenshots/Week6-Assignment04-Screenshot05.jpg)
 
 ---
 
